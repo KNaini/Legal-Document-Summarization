@@ -1,6 +1,6 @@
 # Legal-Document-Summarization
 
--> paper reference
+-> paper reference tests
 
 -> corpus description
 To achieve that, we first create a corpus named EUR-LexSum containing 4595 curated European regulatory documents and their corresponding summaries. We then fine-tune transformer-based models which, applied to this corpus, yield a superior performance (in terms of ROUGE metrics) compared to a traditional extractive summarization baseline. Our experiments reveal that even with limited amounts of data such transformer-based models are effective in the field of legal document summarization.
