@@ -1,9 +1,13 @@
-# Legal-Document-Summarization
+**cite** contains a dataset for our [paper](https://arxiv.org/abs/1711.08389).  If you find this code useful in your research, please consider citing:
 
--> paper reference tests
+    @inproceedings{10.1145/3477495.3531872,
+	Author = {},
+	Title = {Summarizing Legal Regulatory Documents using Transformers},
+	year = {2022},
+	Booktitle  = { {SIGIR} ’22: The 45th International {ACM} {SIGIR} Conference on Research
+               and Development in Information Retrieval, Spain, July
+               11-15, 2022}
 
--> corpus description
-To achieve that, we first create a corpus named EUR-LexSum containing 4595 curated European regulatory documents and their corresponding summaries. We then fine-tune transformer-based models which, applied to this corpus, yield a superior performance (in terms of ROUGE metrics) compared to a traditional extractive summarization baseline. Our experiments reveal that even with limited amounts of data such transformer-based models are effective in the field of legal document summarization.
+	url = {https://doi.org/10.1145/3477495.3531872}
+    }
 
--> link
-#### You can access the data under this link: https://drive.google.com/file/d/1ZlHekX3v97C2qilhgeNtOyYcHV4uwFa_/view
