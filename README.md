@@ -1,7 +1,7 @@
-**cite** contains a dataset for our [paper](https://arxiv.org/abs/1711.08389).  If you find this code useful in your research, please consider citing:
+**This repository** contains a dataset for our [paper](https://arxiv.org/abs/1711.08389).  If you find this code useful in your research, please consider citing:
 
     @inproceedings{10.1145/3477495.3531872,
-	Author = {},
+	Author = {Svea Klaus, Ria Van Hecke, Kaweh Djafari Naini, Ismail Sengor Altingovde, Juan Bernabe-Moreno and Enrique Herrera-Viedma},
 	Title = {Summarizing Legal Regulatory Documents using Transformers},
 	year = {2022},
 	Booktitle  = { {SIGIR} ’22: The 45th International {ACM} {SIGIR} Conference on Research
